@@ -19,6 +19,7 @@ int main()
 	cout<<"Changes in the files\n";
 
 	cout<<"Managers changes for rasising conflits";
+	cout<<"Force change";
 	string str = "geeksforgeeks";
 	reverseStr(str);
 	cout << str;
