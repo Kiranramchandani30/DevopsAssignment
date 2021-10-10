@@ -16,6 +16,7 @@ void reverseStr(string& str)
 // Driver program
 int main()
 {
+	cout<< "changes added in the files";
 	string str = "geeksforgeeks";
 	reverseStr(str);
 	cout << str;
